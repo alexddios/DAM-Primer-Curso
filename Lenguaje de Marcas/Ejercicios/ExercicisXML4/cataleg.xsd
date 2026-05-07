@@ -6,7 +6,7 @@
                 <xs:element name="cotxe" maxOccurs="unbounded">
                     <xs:complexType>
                         <xs:sequence>
-                            <xs:element name="marca" type="xs:string">
+                            <xs:element name="marca">
                                 <xs:simpleType>
                                     <xs:restriction base="xs:string">
                                         <xs:minLength value="2"/>
@@ -14,7 +14,7 @@
                                 </xs:simpleType>
                             </xs:element>
 
-                            <xs:element name="model" type="xs:string">
+                            <xs:element name="model">
                                 <xs:simpleType>
                                     <xs:restriction base="xs:string">
                                         <xs:minLength value="1"/>
@@ -22,7 +22,7 @@
                                 </xs:simpleType>
                             </xs:element>
 
-                            <xs:element name="any" type="xs:integer">
+                            <xs:element name="any">
                                 <xs:simpleType>
                                     <xs:restriction base="xs:integer">
                                         <xs:minInclusive value="1990"/>
@@ -31,9 +31,9 @@
                                 </xs:simpleType>
                             </xs:element>
 
-                            <xs:element name="preu" type="xs:decimal">
+                            <xs:element name="preu">
                                 <xs:simpleType>
-                                    <xs:restriction base="xs:integer">
+                                    <xs:restriction base="xs:decimal">
                                         <xs:minExclusive value="0"/>
                                     </xs:restriction>
                                 </xs:simpleType>
@@ -42,7 +42,7 @@
                             <xs:element name="extres" minOccurs="0">
                                 <xs:complexType>
                                     <xs:sequence>
-                                        <xs:element name="extra" type="xs:string" maxOccurs="unbounded">
+                                        <xs:element name="extra" maxOccurs="unbounded">
                                             <xs:simpleType>
                                                 <xs:restriction base="xs:string">
                                                     <xs:minLength value="2"/>
@@ -54,7 +54,7 @@
                             </xs:element>
 
                         </xs:sequence>
-                        <xs:attribute name="id" use="required"/>
+                        <xs:attribute name="id" use="required" type="xs:string"/>
                         <xs:attribute name="combustible" use="optional">
                             <xs:simpleType>
                                 <xs:restriction base="xs:string">
@@ -65,7 +65,7 @@
                                 </xs:restriction>
                             </xs:simpleType>
                         </xs:attribute>
-                        <xs:attribute name="estat" default="disponible">
+                        <xs:attribute name="estat" default="disponible" type="xs:string">
                             <xs:simpleType>
                                 <xs:restriction base="xs:string">
                                     <xs:enumeration value="disponible"/>
@@ -74,7 +74,7 @@
                                 </xs:restriction>
                             </xs:simpleType>
                         </xs:attribute>
-                        <xs:attribute name="moneda" fixed="EUR"/>
+                        <xs:attribute name="moneda" fixed="EUR" type="xs:string"/>
                     </xs:complexType>
                 </xs:element>
             </xs:sequence>
