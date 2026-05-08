@@ -29,7 +29,7 @@ La mayoría de los elementos tienen:
 - una etiqueta de cierre `</elemento>`
 
 ```Xml
-titulo>XML básico</titulo>
+<titulo>XML básico</titulo>
 ```
 
 ### Etiquetas vacías

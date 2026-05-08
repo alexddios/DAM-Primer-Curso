@@ -14,5 +14,4 @@
 - **Switch de Acceso L2:** conecta dispositivos finales (PCs, impresoras, APs) a la red local (LAN) utilizando direcciones MAC.
 - **QoS:** La Calidad de Servicio (QoS) es un conjunto de tecnologías de red que gestionan y priorizan el tráfico de datos para asegurar el rendimiento de aplicaciones críticas (voz, video, juegos) frente a tráfico de menor prioridad (descargas).
 - **Cabina SAN:** dispositivos especializados independientes de los servidores
-
-Página 14-15
+-
