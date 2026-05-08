@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DAM-1/Digitalización aplicada a los sectores productivos/Trabajo.md",
+                "file": "DAM-1/Itinerario Personal para la Empleabilidad/Preguntas examen.md",
                 "mode": "source",
-                "source": true
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "Trabajo"
+              "title": "Preguntas examen"
             }
           }
         ],
@@ -162,8 +162,7 @@
               "title": "Etiquetas"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -180,37 +179,38 @@
       "obsidian-kanban:Create new board": false,
       "obsidian-full-calendar:Open Full Calendar": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "export-graph-view:Export graph view": false
+      "export-graph-view:Export graph view": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "49621c31c9542851",
   "lastOpenFiles": [
+    "DAM-1/LenguajeMarcas/XML/Elementos, atributos y texto en XML.md",
+    "DAM-1/LenguajeMarcas/XML/XML.md",
+    "DAM-1/LenguajeMarcas/XML/Estructura de un documento XML.md",
+    "DAM-1/LenguajeMarcas/XML/Introducción a XML.md",
+    "DAM-1/LenguajeMarcas/HTML SEO.md",
+    "DAM-1/LenguajeMarcas/JavaScript.md",
     "DAM-1/Sistemas informáticos/Tema 5 - Sistemas Informáticos en Red/Tema5_Sistemas_Informaticos_en_Red_Resumen.md",
+    "DAM-1/Sistemas informáticos/Sistemas informáticos.md",
+    "DAM-1/LenguajeMarcas/XQuery/XQuery.md",
+    "DAM-1/LenguajeMarcas/LenguajeMarcas.md",
+    "DAM-1/Itinerario Personal para la Empleabilidad/U11 - Aprendizaje autónomo y competencia digital/U11 - Aprendizaje autónomo y competencia digital.md",
+    "DAM-1/Itinerario Personal para la Empleabilidad/Preguntas examen.md",
+    "DAM-1/Itinerario Personal para la Empleabilidad/Itinerario Personal para la Empleabilidad.md",
+    "DAM-1/Itinerario Personal para la Empleabilidad/U11 - Aprendizaje autónomo y competencia digital/U11-Identidad-Digital.md",
+    "DAM-1/LenguajeMarcas/XML/Documentos bien formados y válidos.md",
+    "DAM-1/LenguajeMarcas/XML/Validación XML DTD y XSD.md",
+    "DAM-1/LenguajeMarcas/XML/Jerarquía y buenas prácticas en XML.md",
+    "DAM-1/Bases de datos/Bases de datos.md",
+    "DAM-1/Digitalización aplicada a los sectores productivos/Trabajo.md",
     "DAM-1/Sistemas informáticos/Tema 5 - Sistemas Informáticos en Red/Ejercicio.md",
     "Cosas Random.md",
     "To-Do.md",
-    "DAM-1/LenguajeMarcas/XML/Validación XML DTD y XSD.md",
-    "DAM-1/LenguajeMarcas/XQuery/XQuery.md",
-    "DAM-1/LenguajeMarcas/XML/Documentos bien formados y válidos.md",
-    "DAM-1/LenguajeMarcas/XML/XML.md",
-    "DAM-1/LenguajeMarcas/XML/Jerarquía y buenas prácticas en XML.md",
-    "DAM-1/LenguajeMarcas/XML/Elementos, atributos y texto en XML.md",
-    "DAM-1/LenguajeMarcas/XML/Estructura de un documento XML.md",
-    "DAM-1/LenguajeMarcas/XML/Introducción a XML.md",
-    "DAM-1/LenguajeMarcas/LenguajeMarcas.md",
     "DAM-1/Sistemas informáticos/Tema 5 - Sistemas Informáticos en Red/Tema 5 - Sistemas Informáticos en Red.md",
     "DAM-1/Sistemas informáticos/Tema 5 - Sistemas Informáticos en Red/5.1.3 - Mapas Físicos y Lógicos.md",
     "DAM-1/Sistemas informáticos/Tema 5 - Sistemas Informáticos en Red/5.1 - Redes Informáticas.md",
-    "DAM-1/Sistemas informáticos/Sistemas informáticos.md",
     "DAM-1/Práctica Python.md",
-    "DAM-1/Sistemas informáticos/Tema 5 - Sistemas Informáticos en Red/5.4.4 - Conexión a Internet.md",
-    "DAM-1/Sistemas informáticos/Tema 5 - Sistemas Informáticos en Red/5.4.3 - WAN.md",
-    "DAM-1/!Examenes/Examen Sistemas.md",
-    "DAM-1/Digitalización aplicada a los sectores productivos/Trabajo.md",
-    "DAM-1/Entornos de desarrollo/Ejercicio 6.md",
-    "DAM-1/Itinerario Personal para la Empleabilidad/U11 - Aprendizaje autónomo y competencia digital/U11 - Aprendizaje autónomo y competencia digital.md",
-    "DAM-1/LenguajeMarcas/JavaScript/JavaScript.md",
-    "DAM-1/LenguajeMarcas/XQuery/XQuery y XML.md",
     "DAM-1/LenguajeMarcas/XQuery/XQuery.xml",
     "DAM-1/LenguajeMarcas/XQuery",
     "DAM-1/LenguajeMarcas/XQuery.xml",

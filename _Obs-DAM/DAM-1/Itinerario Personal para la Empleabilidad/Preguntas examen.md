@@ -1,0 +1,15 @@
+- Quins del seguents elements ikigai
+- Proyecto profesional 
+- Area ciega yohari
+- Resiliencia
+- KAME con relacion DAFO
+- Entorno personal de aprenentatge
+- Que es la competencia digital
+- Live Long Learning
+- Ejemplo de Aprenentatge autonom
+- No Via de adquisición digital
+
+- Hard skills y soft skills
+- Autoestima Kovey
+- Tu ets la teva propia marca y como se relaciona con el mundo laboral
+- Dos estrategias para proteger la identidad digital
