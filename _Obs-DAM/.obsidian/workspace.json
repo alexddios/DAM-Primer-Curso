@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DAM-1/Itinerario Personal para la Empleabilidad/Preguntas examen.md",
+                "file": "DAM-1/LenguajeMarcas/XML/Introducción a XML.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Preguntas examen"
+              "title": "Introducción a XML"
             }
           }
         ],
@@ -185,18 +185,22 @@
   },
   "active": "49621c31c9542851",
   "lastOpenFiles": [
-    "DAM-1/LenguajeMarcas/XML/Elementos, atributos y texto en XML.md",
     "DAM-1/LenguajeMarcas/XML/XML.md",
-    "DAM-1/LenguajeMarcas/XML/Estructura de un documento XML.md",
+    "DAM-1/LenguajeMarcas/XQuery/XQuery y XML.md",
+    "DAM-1/LenguajeMarcas/XQuery/XQuery.md",
+    "DAM-1/LenguajeMarcas/XQuery/Funciones y Operadores en XQuery.md",
+    "DAM-1/LenguajeMarcas/XQuery/Sintaxis y Expresiones XQuery.md",
+    "DAM-1/LenguajeMarcas/XQuery/Introducción a XQuery.md",
     "DAM-1/LenguajeMarcas/XML/Introducción a XML.md",
+    "DAM-1/Itinerario Personal para la Empleabilidad/Preguntas examen.md",
+    "DAM-1/LenguajeMarcas/XML/Elementos, atributos y texto en XML.md",
+    "DAM-1/LenguajeMarcas/XML/Estructura de un documento XML.md",
     "DAM-1/LenguajeMarcas/HTML SEO.md",
     "DAM-1/LenguajeMarcas/JavaScript.md",
     "DAM-1/Sistemas informáticos/Tema 5 - Sistemas Informáticos en Red/Tema5_Sistemas_Informaticos_en_Red_Resumen.md",
     "DAM-1/Sistemas informáticos/Sistemas informáticos.md",
-    "DAM-1/LenguajeMarcas/XQuery/XQuery.md",
     "DAM-1/LenguajeMarcas/LenguajeMarcas.md",
     "DAM-1/Itinerario Personal para la Empleabilidad/U11 - Aprendizaje autónomo y competencia digital/U11 - Aprendizaje autónomo y competencia digital.md",
-    "DAM-1/Itinerario Personal para la Empleabilidad/Preguntas examen.md",
     "DAM-1/Itinerario Personal para la Empleabilidad/Itinerario Personal para la Empleabilidad.md",
     "DAM-1/Itinerario Personal para la Empleabilidad/U11 - Aprendizaje autónomo y competencia digital/U11-Identidad-Digital.md",
     "DAM-1/LenguajeMarcas/XML/Documentos bien formados y válidos.md",
@@ -207,10 +211,6 @@
     "DAM-1/Sistemas informáticos/Tema 5 - Sistemas Informáticos en Red/Ejercicio.md",
     "Cosas Random.md",
     "To-Do.md",
-    "DAM-1/Sistemas informáticos/Tema 5 - Sistemas Informáticos en Red/Tema 5 - Sistemas Informáticos en Red.md",
-    "DAM-1/Sistemas informáticos/Tema 5 - Sistemas Informáticos en Red/5.1.3 - Mapas Físicos y Lógicos.md",
-    "DAM-1/Sistemas informáticos/Tema 5 - Sistemas Informáticos en Red/5.1 - Redes Informáticas.md",
-    "DAM-1/Práctica Python.md",
     "DAM-1/LenguajeMarcas/XQuery/XQuery.xml",
     "DAM-1/LenguajeMarcas/XQuery",
     "DAM-1/LenguajeMarcas/XQuery.xml",
