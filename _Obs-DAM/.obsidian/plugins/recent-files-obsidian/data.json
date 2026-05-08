@@ -1,40 +1,88 @@
 {
   "recentFiles": [
     {
-      "basename": "Validación XML DTD y XSD",
-      "path": "DAM-1/LenguajeMarcas/XML/Validación XML DTD y XSD.md"
+      "basename": "OLD y NEW en Triggers",
+      "path": "DAM-1/Bases de datos/Unit 5 - Triggers/OLD y NEW en Triggers.md"
     },
     {
-      "basename": "XQuery",
-      "path": "DAM-1/LenguajeMarcas/XQuery/XQuery.md"
+      "basename": "Unit 5 - Triggers",
+      "path": "DAM-1/Bases de datos/Unit 5 - Triggers/Unit 5 - Triggers.md"
     },
     {
-      "basename": "Documentos bien formados y válidos",
-      "path": "DAM-1/LenguajeMarcas/XML/Documentos bien formados y válidos.md"
+      "basename": "Unit 3 - Introduction to SQL-MySQL",
+      "path": "DAM-1/Bases de datos/Unit 3 - Introduction to SQL-MySQL/Unit 3 - Introduction to SQL-MySQL.md"
     },
     {
-      "basename": "XML",
-      "path": "DAM-1/LenguajeMarcas/XML/XML.md"
-    },
-    {
-      "basename": "Jerarquía y buenas prácticas en XML",
-      "path": "DAM-1/LenguajeMarcas/XML/Jerarquía y buenas prácticas en XML.md"
-    },
-    {
-      "basename": "Elementos, atributos y texto en XML",
-      "path": "DAM-1/LenguajeMarcas/XML/Elementos, atributos y texto en XML.md"
+      "basename": "Bases de datos",
+      "path": "DAM-1/Bases de datos/Bases de datos.md"
     },
     {
       "basename": "Estructura de un documento XML",
       "path": "DAM-1/LenguajeMarcas/XML/Estructura de un documento XML.md"
     },
     {
-      "basename": "Tema5_Sistemas_Informaticos_en_Red_Resumen",
-      "path": "DAM-1/Sistemas informáticos/Tema 5 - Sistemas Informáticos en Red/Tema5_Sistemas_Informaticos_en_Red_Resumen.md"
+      "basename": "Preparación examen",
+      "path": "DAM-1/LenguajeMarcas/Preparación examen.md"
+    },
+    {
+      "basename": "XML",
+      "path": "DAM-1/LenguajeMarcas/XML/XML.md"
     },
     {
       "basename": "Introducción a XML",
       "path": "DAM-1/LenguajeMarcas/XML/Introducción a XML.md"
+    },
+    {
+      "basename": "Validación XML DTD y XSD",
+      "path": "DAM-1/LenguajeMarcas/XML/Validación XML DTD y XSD.md"
+    },
+    {
+      "basename": "XML",
+      "path": "DAM-1/LenguajeMarcas/XML.md"
+    },
+    {
+      "basename": "XQuery",
+      "path": "DAM-1/LenguajeMarcas/XQuery/XQuery.md"
+    },
+    {
+      "basename": "Sintaxis y Expresiones XQuery",
+      "path": "DAM-1/LenguajeMarcas/XQuery/Sintaxis y Expresiones XQuery.md"
+    },
+    {
+      "basename": "XQuery y XML",
+      "path": "DAM-1/LenguajeMarcas/XQuery/XQuery y XML.md"
+    },
+    {
+      "basename": "Introducción a XQuery",
+      "path": "DAM-1/LenguajeMarcas/XQuery/Introducción a XQuery.md"
+    },
+    {
+      "basename": "Funciones y Operadores en XQuery",
+      "path": "DAM-1/LenguajeMarcas/XQuery/Funciones y Operadores en XQuery.md"
+    },
+    {
+      "basename": "FLWOR Expressions",
+      "path": "DAM-1/LenguajeMarcas/XQuery/FLWOR Expressions.md"
+    },
+    {
+      "basename": "Espacios de nombres en XML",
+      "path": "DAM-1/LenguajeMarcas/XML/Espacios de nombres en XML.md"
+    },
+    {
+      "basename": "Elementos, atributos y texto en XML",
+      "path": "DAM-1/LenguajeMarcas/XML/Elementos, atributos y texto en XML.md"
+    },
+    {
+      "basename": "Documentos bien formados y válidos",
+      "path": "DAM-1/LenguajeMarcas/XML/Documentos bien formados y válidos.md"
+    },
+    {
+      "basename": "Jerarquía y buenas prácticas en XML",
+      "path": "DAM-1/LenguajeMarcas/XML/Jerarquía y buenas prácticas en XML.md"
+    },
+    {
+      "basename": "Tema5_Sistemas_Informaticos_en_Red_Resumen",
+      "path": "DAM-1/Sistemas informáticos/Tema 5 - Sistemas Informáticos en Red/Tema5_Sistemas_Informaticos_en_Red_Resumen.md"
     },
     {
       "basename": "LenguajeMarcas",
@@ -129,32 +177,8 @@
       "path": "DAM-1/LenguajeMarcas/JavaScript/JavaScript.md"
     },
     {
-      "basename": "XQuery y XML",
-      "path": "DAM-1/LenguajeMarcas/XQuery/XQuery y XML.md"
-    },
-    {
-      "basename": "FLWOR Expressions",
-      "path": "DAM-1/LenguajeMarcas/XQuery/FLWOR Expressions.md"
-    },
-    {
-      "basename": "Sintaxis y Expresiones XQuery",
-      "path": "DAM-1/LenguajeMarcas/XQuery/Sintaxis y Expresiones XQuery.md"
-    },
-    {
-      "basename": "Introducción a XQuery",
-      "path": "DAM-1/LenguajeMarcas/XQuery/Introducción a XQuery.md"
-    },
-    {
-      "basename": "Funciones y Operadores en XQuery",
-      "path": "DAM-1/LenguajeMarcas/XQuery/Funciones y Operadores en XQuery.md"
-    },
-    {
       "basename": "HTML SEO",
       "path": "DAM-1/LenguajeMarcas/HTML SEO.md"
-    },
-    {
-      "basename": "XML",
-      "path": "DAM-1/LenguajeMarcas/XML.md"
     },
     {
       "basename": "5.4.1 - Redes Cableadas",
@@ -175,30 +199,6 @@
     {
       "basename": "5.3.3 - Clases de Redes IPv4",
       "path": "DAM-1/Sistemas informáticos/Tema 5 - Sistemas Informáticos en Red/5.3.3 - Clases de Redes IPv4.md"
-    },
-    {
-      "basename": "5.3.2 - Máscara de Subred",
-      "path": "DAM-1/Sistemas informáticos/Tema 5 - Sistemas Informáticos en Red/5.3.2 - Máscara de Subred.md"
-    },
-    {
-      "basename": "5.3.1 - Direcciones IPv4 e IPv6",
-      "path": "DAM-1/Sistemas informáticos/Tema 5 - Sistemas Informáticos en Red/5.3.1 - Direcciones IPv4 e IPv6.md"
-    },
-    {
-      "basename": "5.3 - Direccionamiento IP",
-      "path": "DAM-1/Sistemas informáticos/Tema 5 - Sistemas Informáticos en Red/5.3 - Direccionamiento IP.md"
-    },
-    {
-      "basename": "5.2.4 - Protocolos Utilizados en las Redes",
-      "path": "DAM-1/Sistemas informáticos/Tema 5 - Sistemas Informáticos en Red/5.2.4 - Protocolos Utilizados en las Redes.md"
-    },
-    {
-      "basename": "5.2.3 - Comparación OSI y TCP-IP",
-      "path": "DAM-1/Sistemas informáticos/Tema 5 - Sistemas Informáticos en Red/5.2.3 - Comparación OSI y TCP-IP.md"
-    },
-    {
-      "basename": "5.2 - Modelos de Referencia",
-      "path": "DAM-1/Sistemas informáticos/Tema 5 - Sistemas Informáticos en Red/5.2 - Modelos de Referencia.md"
     }
   ],
   "omittedPaths": [],

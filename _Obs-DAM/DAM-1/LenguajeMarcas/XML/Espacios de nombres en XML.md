@@ -113,6 +113,6 @@ Esto es habitual cuando:
 
 - [[Jerarquía y buenas prácticas en XML]]
 - [[Documentos bien formados y válidos]]
-- [[Validación XML: DTD y XSD]]
+- [[Validación XML DTD y XSD]]
 
 #xml #namespaces #vocabularios
