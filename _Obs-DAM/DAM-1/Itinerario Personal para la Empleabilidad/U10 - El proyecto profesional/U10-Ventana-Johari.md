@@ -19,6 +19,12 @@ La **ventana de Johari** es una herramienta de autoconocimiento que analiza la p
 - Aspectos que ni yo ni los demás conocen aún
 - Potencialidades latentes
 
+| **AREAS**            | **Yo conozco** | **Yo desconozco** |
+| -------------------- | -------------- | ----------------- |
+| **Otros conocen**    | Pública        | Ciega             |
+| **Otros desconocen** | Oculta         | Desconocida                  |
+
+
 > [!info]
 > Cuanto mayor es el área pública, mejor es la comunicación interpersonal.
 
