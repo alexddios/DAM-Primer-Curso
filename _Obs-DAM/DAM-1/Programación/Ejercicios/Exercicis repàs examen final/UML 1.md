@@ -7,6 +7,8 @@ classDiagram
         -adreca : String
         -estat : EstatEscola
         +preuTotal() double
+        +programarClasse(i : DateTime, d : int, p : double) boolean
+        +crearInstrument(n : int, t : String) boolean
     }
 
     class EstatEscola{
