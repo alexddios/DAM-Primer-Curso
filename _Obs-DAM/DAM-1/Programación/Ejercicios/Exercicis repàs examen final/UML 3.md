@@ -13,13 +13,14 @@ classDiagram
         -nom : String
         -telefon : String
         +obtenirCostTotalPractiques() double
-        +crearPractica(data : DateTime,durada : int, cost : Double ) boolean
+        +crearPractica(data : DateTime, durada : int, cost : Double ) boolean
     }
 
     class Practica {
-        -dataRealitzacio : DateTime
-        -duradaMinuts : int
-        -cost : double
+    <<abstract>>
+        #dataRealitzacio : DateTime
+        #duradaMinuts : int
+        #cost : double
     }
 
     class PracticaCotxe {
@@ -33,7 +34,8 @@ classDiagram
     Practica <|-- PracticaCotxe
     Practica <|-- PracticaMoto
 
-    Autoescola "1" o--> "1..*" Alumne : registra
+    %% Se ajusta 1..* a 0..* para permitir autoescuelas recién creadas sin alumnos
+    Autoescola "1" o--> "0..*" Alumne : registra
     Alumne "1" *--> "0..*" Practica : realitza
 
     note for Practica "duradaMinuts > 0"

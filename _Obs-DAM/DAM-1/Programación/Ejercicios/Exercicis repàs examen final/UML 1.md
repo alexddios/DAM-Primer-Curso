@@ -25,7 +25,7 @@ classDiagram
 
     class Classe{
         -inici : DateTime
-        -duradaMinuts : int
+        -duradaMinuts : int 
         -preu : double
     }
 
