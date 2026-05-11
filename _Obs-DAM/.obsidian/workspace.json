@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DAM-1/LenguajeMarcas/XML/Introducción a XML.md",
-                "mode": "source",
-                "source": false
+                "file": "DAM-1/Itinerario Personal para la Empleabilidad/Preguntas examen.md",
+                "mode": "preview",
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "Introducción a XML"
+              "title": "Preguntas examen"
             }
           }
         ],
@@ -185,16 +185,18 @@
   },
   "active": "49621c31c9542851",
   "lastOpenFiles": [
+    "DAM-1/LenguajeMarcas/XML/Validación XML DTD y XSD.md",
     "DAM-1/LenguajeMarcas/XML/XML.md",
+    "DAM-1/LenguajeMarcas/XML/Jerarquía y buenas prácticas en XML.md",
+    "DAM-1/LenguajeMarcas/XML/Estructura de un documento XML.md",
+    "DAM-1/LenguajeMarcas/XML/Introducción a XML.md",
     "DAM-1/LenguajeMarcas/XQuery/XQuery y XML.md",
     "DAM-1/LenguajeMarcas/XQuery/XQuery.md",
     "DAM-1/LenguajeMarcas/XQuery/Funciones y Operadores en XQuery.md",
     "DAM-1/LenguajeMarcas/XQuery/Sintaxis y Expresiones XQuery.md",
     "DAM-1/LenguajeMarcas/XQuery/Introducción a XQuery.md",
-    "DAM-1/LenguajeMarcas/XML/Introducción a XML.md",
     "DAM-1/Itinerario Personal para la Empleabilidad/Preguntas examen.md",
     "DAM-1/LenguajeMarcas/XML/Elementos, atributos y texto en XML.md",
-    "DAM-1/LenguajeMarcas/XML/Estructura de un documento XML.md",
     "DAM-1/LenguajeMarcas/HTML SEO.md",
     "DAM-1/LenguajeMarcas/JavaScript.md",
     "DAM-1/Sistemas informáticos/Tema 5 - Sistemas Informáticos en Red/Tema5_Sistemas_Informaticos_en_Red_Resumen.md",
@@ -204,8 +206,6 @@
     "DAM-1/Itinerario Personal para la Empleabilidad/Itinerario Personal para la Empleabilidad.md",
     "DAM-1/Itinerario Personal para la Empleabilidad/U11 - Aprendizaje autónomo y competencia digital/U11-Identidad-Digital.md",
     "DAM-1/LenguajeMarcas/XML/Documentos bien formados y válidos.md",
-    "DAM-1/LenguajeMarcas/XML/Validación XML DTD y XSD.md",
-    "DAM-1/LenguajeMarcas/XML/Jerarquía y buenas prácticas en XML.md",
     "DAM-1/Bases de datos/Bases de datos.md",
     "DAM-1/Digitalización aplicada a los sectores productivos/Trabajo.md",
     "DAM-1/Sistemas informáticos/Tema 5 - Sistemas Informáticos en Red/Ejercicio.md",
