@@ -7,14 +7,17 @@
 - Lo que el mundo necesita (misión/vocación)
 - Lo que te pueden pagar
 
-**2. Proyecto profesional** Elaborar un proyecto profesional implica analizar: tus intereses y motivaciones, tus habilidades y destrezas, tus competencias personales y sociales con valor para el empleo, los itinerarios formativo-profesionales disponibles, y el mercado laboral en el que te insertarás. Su objetivo es formular objetivos profesionales realistas y adecuados a tu persona.
-[[U10-Proyecto-Profesional]]
+**2. Proyecto profesional** Elaborar un proyecto profesional implica analizar: 
+- tus intereses y motivaciones 
+- tus habilidades y destrezas 
+- tus competencias personales y sociales con valor para el empleo 
+- los itinerarios formativo-profesionales disponibles 
+- y el mercado laboral en el que te insertarás. 
+Su objetivo es formular objetivos profesionales realistas y adecuados a tu persona.
 
 **3. Área ciega de Johari** Son aquellos aspectos que una persona desconoce sobre sí misma, pero que los demás sí ven. Son cualidades propias que nos pasan desapercibidas. Podría incluirse la impresión que causamos a los demás con nuestros gestos o expresiones.
-[[U10-Ventana-Johari]]
 
 **4. Resiliencia** Capacidad para hacer frente a acontecimientos adversos y recuperar una vida normal, junto a la determinación de ser capaz de hacer una cosa hasta finalizarla, incluso recibiendo fuertes presiones en contra.
-[[U10-Competencias-Personales-Sociales]]
 
 **5. Matriz CAME en relación con DAFO** La matriz CAME parte del análisis DAFO y ayuda a plantear una estrategia de futuro. Sus cuatro acciones son:
 
@@ -48,7 +51,7 @@
 - **Soft skills**: competencias transversales relacionadas con la comunicación y las relaciones con los demás. _Ejemplo: la empatía o el trabajo en equipo._
 [[U10-Hard-Soft-Skills]]
 
-**12. Autoestima según Stephen R. Covey** La autoestima es un sentimiento de aceptación de uno mismo que nos lleva a valorarnos y apreciarnos. Para Covey, cuidar la autoestima significa "preservar y realzar el mayor bien que poseemos". Tiene cuatro dimensiones que deben mantenerse en equilibrio: física (alimentación, descanso, ejercicio), espiritual (valores y compromiso), mental (exploración, crítica positiva) y social/emocional (relaciones, empatía, cooperación).
+**12. Autoestima según Stephen R. Covey** La autoestima es un sentimiento de aceptación de uno mismo que nos lleva a valorarnos y apreciarnos. Tiene cuatro dimensiones que deben mantenerse en equilibrio: física (alimentación, descanso, ejercicio), espiritual (valores y compromiso), mental (exploración, crítica positiva) y social/emocional (relaciones, empatía, cooperación).
 [[U10-Autoestima-Covey]]
 
 **13. "Tú eres tu propia marca" (Personal Branding) y relación con el mundo laboral** El _personal branding_ o marca personal es un proceso estratégico mediante el cual una persona construye y gestiona su propia imagen, reputación y presencia en línea, reforzando su propuesta de valor. En el ámbito laboral es muy relevante porque las empresas consultan habitualmente los perfiles en red de los candidatos antes de contratarlos (según InfoJobs, el 52 % lo hace). Una buena marca personal permite diferenciarse, mostrar habilidades y logros, y abrirse puertas a nuevas oportunidades profesionales.

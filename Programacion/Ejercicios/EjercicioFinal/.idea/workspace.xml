@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ad964fbc-e9f9-4109-8242-8930c63a4f7b" name="Changes" comment="Actualizado" />
+    <list default="true" id="ad964fbc-e9f9-4109-8242-8930c63a4f7b" name="Changes" comment="Actualizado">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../_Obs-DAM/DAM-1/Itinerario Personal para la Empleabilidad/Preguntas examen.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../../_Obs-DAM/DAM-1/Itinerario Personal para la Empleabilidad/Preguntas examen.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -34,7 +37,7 @@
 }</component>
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/Zafiro2004/DAM-Primer-Curso.git&quot;,
+    &quot;url&quot;: &quot;https://github.com/alexddios/DAM-Primer-Curso/&quot;,
     &quot;accountId&quot;: &quot;8bd6dd1b-2968-44ff-8511-ed870aede36d&quot;
   }
 }</component>
@@ -89,6 +92,9 @@
       <workItem from="1778400037331" duration="12000" />
       <workItem from="1778407153491" duration="261000" />
       <workItem from="1778437341397" duration="88000" />
+      <workItem from="1778438687638" duration="95000" />
+      <workItem from="1778438805803" duration="491000" />
+      <workItem from="1778494150397" duration="24000" />
     </task>
     <task id="LOCAL-00001" summary="Actualizado">
       <option name="closed" value="true" />
@@ -119,6 +125,17 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Ejercicio Implementación acabado" />
