@@ -1,3 +1,5 @@
 public enum EstatEscola {
-    OBERTA,TANCADA,TEMPORADA_BAIXA
+    OBERTA,
+    TANCADA,
+    TEMPORADA_BAIXA
 }
