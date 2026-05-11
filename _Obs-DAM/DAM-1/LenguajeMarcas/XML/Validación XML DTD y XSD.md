@@ -94,14 +94,22 @@ Las dos formas principales de validación en XML son:
 ## Atributos en DTD
 
 ```dtd
-<!ATTLIST libro isbn CDATA #REQUIRED>
+<!ATTLIST elemento atributa tipo condición>
 ```
 
-- `CDATA` → texto
-- `#REQUIRED` → obligatorio
-- `#IMPLIED` → opcional
-- valor por defecto permitido
-
+- elemento
+	- elemento al cual pertenece el atributo
+- atributo
+	- nombre del atributo
+- tipo
+	- CDATA (Texto libre)
+	- (v1 | v2 | v3) (un valor de una lista cerrada)
+	- ID (identificador único)
+- condición
+	- `#REQUIRED` obligatorio
+	- `#IMPLIED` opcional
+	- `"valor"` opcional con valor por defecto
+	- `#FIXED "valor"` valor fijo 
 ---
 
 ## 📐 XML Schema (XSD)
@@ -137,11 +145,11 @@ Prefijo habitual: `xs:`
 
 Tipos comunes:
 
-- `xs:string`
-- `xs:integer`
-- `xs:decimal`
-- `xs:boolean`
-- `xs:date`
+- `xs:string` texto
+- `xs:integer` nombre entero
+- `xs:decimal` nombre decimal
+- `xs:boolean` true/false
+- `xs:date` fecha
 
 ---
 
@@ -194,10 +202,10 @@ Tipos comunes:
 
 Valores comunes de `use`:
 
-- `required`
-- `optional`
-- `default`
-- `fixed`
+- `required` tiene que aparecer
+- `optional` puede aparecer o no
+- `default` si no está, asume este valor
+- `fixed` si está, solo puede tener este valor
 
 ---
 ## Diagrama XSD

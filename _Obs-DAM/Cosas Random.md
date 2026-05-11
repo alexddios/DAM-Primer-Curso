@@ -1,19 +1,57 @@
 ```mermaid
-flowchart TD
-    A([Inicio: insertVendorsProvince con p_prov_code]) --> B[OPEN vend_cur]
-    B --> C[FETCH vend_cur INTO vend_rec]
-    C --> D{¿vend_cur%notfound?}
+erDiagram
+    MEDICO {
+        varchar(50) nombre
+        varchar(50) especialidad
+        varchar(15) telefono
+        varchar(10) num_colegiado PK
+    }
     
-    D -- No --> E[/"INSERT INTO VendorsProvince"/]
-    E --> C
+    PACIENTE {
+        varchar(50) nombre
+        varchar(100) apellidos
+        date fecha_nac
+        varchar(15) telefono
+        varchar(100) email
+        varchar(9) dni PK
+    }
     
-    D -- Sí --> F[CLOSE vend_cur]
-    F --> G[(COMMIT)]
-    G --> H[/"Imprimir Cabecera: Code | Name | Degree | Province"/]
-    H --> I{"FOR rec IN (SELECT * FROM VendorsProvince)"}
+    HABITACION {
+        int PLANTA
+        varchar(255) TIPO
+        tinyint(1) DISPONIBLE
+        int NUMERO PK
+    }
     
-    I -- Siguiente Registro --> J[/"DBMS_OUTPUT: Mostrar rec.Code, rec.Name..."/]
-    J --> I
+    CITA {
+        int id PK
+        date fecha
+        time hora
+        varchar(200) motivo
+        enum estado "'pendiente', 'realizada', 'cancelada'"
+        varchar(9) dni_paciente FK
+        varchar(10) id_medico FK
+    }
     
-    I -- Fin del Bucle --> K([Fin])
+    INGRESO {
+        int ID PK
+        date FECHA_ENTRADA
+        date FECHA_SALIDA
+        varchar(255) DIAGNOSTICO
+        varchar(9) ID_PACIENTE FK
+        int ID_HABITACION FK
+    }
+    
+    agenda_hoy {
+        varchar(50) paciente
+        varchar(50) medico
+        time hora
+        varchar(200) motivo
+    }
+
+    MEDICO ||--o{ CITA : "id_medico:num_colegiado"
+    PACIENTE ||--o{ CITA : "dni_paciente:dni"
+    PACIENTE ||--o{ INGRESO : "ID_PACIENTE:dni"
+    HABITACION ||--o{ INGRESO : "ID_HABITACION:NUMERO"
+
 ```

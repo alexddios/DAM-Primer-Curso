@@ -71,7 +71,7 @@ Este patrón es muy común en:
 
 ---
 
-## Coherencia estructural
+## Coherencia estructural 
 
 - Los elementos del mismo tipo deben tener la misma estructura.
 - Esto facilita:
