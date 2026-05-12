@@ -3,6 +3,7 @@
   <component name="NewModuleRootManager">
     <content url="file://$MODULE_DIR$/../../../Bases de Datos Antoni/Ejercicios Practica/SQL Ejercicios con Múltiples Tablas" />
     <content url="file://$MODULE_DIR$/../../../Bases de Datos Antoni/Ejercicios Practica/Triggers" />
+    <content url="file://$MODULE_DIR$/.." />
     <content url="file://$MODULE_DIR$" />
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

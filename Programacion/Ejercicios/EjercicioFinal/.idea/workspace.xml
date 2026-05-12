@@ -5,8 +5,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ad964fbc-e9f9-4109-8242-8930c63a4f7b" name="Changes" comment="Actualizado">
+      <change beforePath="$PROJECT_DIR$/../../../Bases de datos Masia/SQL/Exercises PL_SQL 1/.idea/Exercises PL_SQL 1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Bases de datos Masia/SQL/Exercises PL_SQL 1/.idea/Exercises PL_SQL 1.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EjercicioFinal.iml" beforeDir="false" afterPath="$PROJECT_DIR$/EjercicioFinal.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/EscolaSurf.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/EscolaSurf.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EjercicioFinalExtra/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../EjercicioFinalExtra/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EjercicioFinalExtra/src/RutaRepartiment.java" beforeDir="false" afterPath="$PROJECT_DIR$/../EjercicioFinalExtra/src/RutaRepartiment.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../_Obs-DAM/DAM-1/Itinerario Personal para la Empleabilidad/Preguntas examen.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../../_Obs-DAM/DAM-1/Itinerario Personal para la Empleabilidad/Preguntas examen.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../_Obs-DAM/DAM-1/Itinerario Personal para la Empleabilidad/U10 - El proyecto profesional/U10-Hard-Soft-Skills.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../../_Obs-DAM/DAM-1/Itinerario Personal para la Empleabilidad/U10 - El proyecto profesional/U10-Hard-Soft-Skills.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../_Obs-DAM/DAM-1/Itinerario Personal para la Empleabilidad/U9-Modificacion-Suspension-Extincion/ U9-MINI-Revision-Rapida.md" beforePathEscaped="$PROJECT_DIR$/../../../_Obs-DAM/DAM-1/Itinerario Personal para la Empleabilidad/U9-Modificacion-Suspension-Extincion/🎓 U9-MINI-Revision-Rapida.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../../_Obs-DAM/DAM-1/Itinerario Personal para la Empleabilidad/U9-Modificacion-Suspension-Extincion/ U9-MINI-Revision-Rapida.md" afterPathEscaped="$PROJECT_DIR$/../../../_Obs-DAM/DAM-1/Itinerario Personal para la Empleabilidad/U9-Modificacion-Suspension-Extincion/🎓 U9-MINI-Revision-Rapida.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../_Obs-DAM/DAM-1/Programación/Ejercicios/Exercicis repàs examen final/UML 1.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../../_Obs-DAM/DAM-1/Programación/Ejercicios/Exercicis repàs examen final/UML 1.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../_Obs-DAM/DAM-1/Programación/Ejercicios/Exercicis repàs examen final/UML 2.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../../_Obs-DAM/DAM-1/Programación/Ejercicios/Exercicis repàs examen final/UML 2.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../_Obs-DAM/DAM-1/Programación/Ejercicios/Exercicis repàs examen final/UML 3.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../../_Obs-DAM/DAM-1/Programación/Ejercicios/Exercicis repàs examen final/UML 3.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../_Obs-DAM/DAM-1/Práctica Python.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../../_Obs-DAM/DAM-1/Práctica Python.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../_Obs-DAM/Sin título.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../_Obs-DAM/To-Do.md" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,6 +37,7 @@
         <option value="Enum" />
         <option value="Interface" />
         <option value="Class" />
+        <option value="JUnit5 Test Class" />
       </list>
     </option>
   </component>
@@ -37,13 +52,29 @@
 }</component>
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/alexddios/DAM-Primer-Curso/&quot;,
-    &quot;accountId&quot;: &quot;8bd6dd1b-2968-44ff-8511-ed870aede36d&quot;
+    &quot;url&quot;: &quot;https://github.com/Zafiro2004/DAM-Primer-Curso.git&quot;,
+    &quot;accountId&quot;: &quot;4b848442-fdac-4316-91a4-075d74fc30d9&quot;
   }
 }</component>
   <component name="McpProjectServerCommands">
-    <commands />
-    <urls />
+    <McpServerCommand sourceId="UserConfigurationSource">
+      <option name="allowedToolsNames" />
+      <option name="enabled" value="true" />
+      <option name="name" value="" />
+      <option name="programPath" value="" />
+      <option name="arguments" value="" />
+      <option name="workingDirectory" value="" />
+      <envs />
+    </McpServerCommand>
+    <McpServerCommand sourceId="UserConfigurationSource">
+      <option name="allowedToolsNames" />
+      <option name="enabled" value="true" />
+      <option name="name" value="" />
+      <option name="programPath" value="" />
+      <option name="arguments" value="" />
+      <option name="workingDirectory" value="" />
+      <envs />
+    </McpServerCommand>
   </component>
   <component name="ProjectColorInfo">{
   &quot;customColor&quot;: &quot;&quot;,
@@ -60,27 +91,56 @@
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
     &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
     &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
     &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
     &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
     &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
+    &quot;create.test.in.the.same.root&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.preview.features.used&quot;: &quot;true&quot;,
     &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
     &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
     &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/DAM-Primer-Curso/Programacion/Ejercicios/EjercicioFinal&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
     &quot;onboarding.tips.debug.path&quot;: &quot;C:/DAM2526/Programacion/Ejercicios/EjercicioFinal/src/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
     &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-bf35d07a577b-intellij.indexing.shared.core-IU-252.27397.103" />
+        <option value="bundled-js-predefined-d6986cc7102b-3aa1da707db6-JavaScript-IU-252.27397.103" />
+      </set>
+    </attachedChunks>
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="ad964fbc-e9f9-4109-8242-8930c63a4f7b" name="Changes" comment="" />
@@ -95,6 +155,10 @@
       <workItem from="1778438687638" duration="95000" />
       <workItem from="1778438805803" duration="491000" />
       <workItem from="1778494150397" duration="24000" />
+      <workItem from="1778518450210" duration="1132000" />
+      <workItem from="1778520084802" duration="1056000" />
+      <workItem from="1778521252016" duration="723000" />
+      <workItem from="1778522165691" duration="1299000" />
     </task>
     <task id="LOCAL-00001" summary="Actualizado">
       <option name="closed" value="true" />
@@ -120,7 +184,15 @@
       <option name="project" value="LOCAL" />
       <updated>1778437369797</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Mas bonito">
+      <option name="closed" value="true" />
+      <created>1778520140428</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1778520140428</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -140,6 +212,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Ejercicio Implementación acabado" />
     <MESSAGE value="Actualizado" />
-    <option name="LAST_COMMIT_MESSAGE" value="Actualizado" />
+    <MESSAGE value="Mas bonito" />
+    <option name="LAST_COMMIT_MESSAGE" value="Mas bonito" />
   </component>
 </project>

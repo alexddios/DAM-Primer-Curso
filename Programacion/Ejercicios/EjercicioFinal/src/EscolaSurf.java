@@ -19,14 +19,16 @@ public class EscolaSurf {
         this.platges = new ArrayList<>();
     }
     public Platja getPlatja(int posicio){
-        if (posicio<platges.size() && posicio>=0){
-            return platges.get(posicio);
-        }
+        if (validarPosicio(posicio)) return platges.get(posicio);
         return null;
     }
+
+    private boolean validarPosicio(int posicio) {
+        return posicio < platges.size() && posicio >= 0;
+    }
+
     public Inscripcio buscarInscripcio(String codi){
-        if (validarInscripcio(codi)) return inscripcions.get(codi);
-        return null;
+        return inscripcions.get(codi);
     }
 
 

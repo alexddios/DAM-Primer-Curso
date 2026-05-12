@@ -1,7 +1,7 @@
 import java.util.ArrayList;
 import java.util.List;
 
-public class RutaRepartiment extends ServeiLlogistic{
+public class RutaRepartiment extends ServeiLlogistic implements Planificable{
     private String horaSortida;
     private PrioritatEnviament prioritat;
     private final List<Parada> parades;

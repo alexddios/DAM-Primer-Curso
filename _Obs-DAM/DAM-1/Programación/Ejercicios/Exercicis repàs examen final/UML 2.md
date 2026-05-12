@@ -6,7 +6,7 @@ classDiagram
         #nom : String
         #ciutat : String
         +importTotalReserves() double
-        +crearReserva(dataEntrada : Date, nombreNits : int, preu : double)
+        +crearReserva(dataEntrada : Date, nombreNits : int, preu : double) boolean
     }
     class Hotel {
         -estrelles : int
@@ -32,4 +32,5 @@ classDiagram
     Reserva "0..*" --> "1" Client
     
     note for Reserva "nombreNits > 0"
+    note for Allotjament "codi : String {readOnly}"
 ```
