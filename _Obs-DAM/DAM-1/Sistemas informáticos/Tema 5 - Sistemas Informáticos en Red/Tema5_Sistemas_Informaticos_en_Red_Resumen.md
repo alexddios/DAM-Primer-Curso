@@ -3,15 +3,8 @@
 ---
 
 ## 📋 Índice
-1. [Redes Informáticas](#1-redes-informáticas)
-2. [Protocolos y Estándares](#2-protocolos-y-estándares)
-3. [Tipos de Redes](#3-tipos-de-redes)
-4. [Mapas Físicos y Lógicos](#4-mapas-físicos-y-lógicos)
-5. [Modelos de Referencia](#5-modelos-de-referencia)
-6. [Direccionamiento IP](#6-direccionamiento-ip)
-7. [DHCP y DNS](#7-dhcp-y-dns)
-8. [Conexión](#8-conexión)
-9. [Ejercicios Resueltos](#9-ejercicios-resueltos)
+
+
 
 ---
 
@@ -63,27 +56,44 @@ Conjunto de **equipos o nodos** interconectados mediante medios de transmisión 
 - **Estándar**: Formalización normalizada de un protocolo
 
 ### Organismos de Normalización
-| Sigla | Nombre |
-|-------|---------|
-| **IEEE** | Institute of Electrical and Electronics Engineers |
-| **ISO** | International Organization for Standardization |
-| **EIA** | Electronic Industries Alliance |
-| **TIA** | Telecommunications Industry Association |
-| **ETSI** | European Telecommunications Standards Institute |
-| **ANSI** | American National Standards Institute |
+| Sigla | Nombre completo | Descripción |
+|-------|----------------|-------------|
+| **IEEE** | Institute of Electrical and Electronics Engineers | Instituto de ingenieros eléctricos y electrónicos |
+| **ISO** | International Organization for Standardization | Del griego *isos* = "igual" |
+| **EIA** | Electronic Industries Alliance | Alianza de industrias electrónicas |
+| **TIA** | Telecommunications Industry Association | Asociación de la industria de las telecomunicaciones |
+| **ETSI** | European Telecommunications Standards Institute | Instituto europeo de normas de telecomunicaciones |
+| **ANSI** | American National Standards Institute | Instituto americano de estándares nacionales |
 
-### Estándares Principales
-| Estándar | Descripción |
-|----------|-------------|
-| **IEEE 802.3** | Ethernet (LAN cableadas). Control: CSMA/CD |
-| **IEEE 802.11** | WiFi (LAN inalámbricas). Control: CSMA/CA |
-| **IEEE 802.15** | WPAN (Bluetooth, ZigBee) |
-| **EIA/TIA T568A/B** | Cableado de redes LAN |
 
-### Historia: Del Aloha al Ethernet
-```
-ALOHAnet → Aloha Ranurado → CSMA → CSMA/CD (Ethernet) / CSMA/CA (WiFi)
-```
+## Estándares Principales
+
+### IEEE 802.3 — Ethernet
+
+- Estándar para redes **LAN cableadas**
+- Variantes: Fast Ethernet, Gigabit Ethernet, 100 Gigabit Ethernet
+- Control de acceso al medio: **CSMA/CD**
+- Con switches y conexiones dúplex se resuelve el problema del acceso al medio
+
+### IEEE 802.11 — WiFi
+
+- Estándar para **redes inalámbricas**
+- Control de acceso al medio: **CSMA/CA** (evita colisiones)
+
+### IEEE 802.15 — WPAN
+
+- Redes inalámbricas de **área personal**
+- **802.15.1** → Bluetooth
+- **802.15.4** → ZigBee (domótica, ondas de radio de baja frecuencia)
+
+### EIA/TIA T568A y T568B
+
+- Normas para **cables de redes LAN**
+
+### Protocolos en desuso
+
+- **IEEE 802.5** → Token Ring (paso de testigo en anillo)
+- **IEEE 802.4** → Token Bus (paso de testigo en bus)
 
 ---
 
@@ -92,16 +102,16 @@ ALOHAnet → Aloha Ranurado → CSMA → CSMA/CD (Ethernet) / CSMA/CA (WiFi)
 ### Clasificación por Dirección de Datos
 | Tipo | Descripción |
 |------|-------------|
-| **Símplex** | Unidireccional |
-| **Half-duplex** | Ambas direcciones, no simultáneo |
-| **Full-duplex** | Ambas direcciones simultáneo |
+| **Símplex / Unidireccional** | Los datos van solo en una dirección |
+| **Half-duplex / Semidúplex** | Ambas direcciones, pero NO simultáneo |
+| **Full-duplex / Dúplex** | Ambas direcciones de forma simultánea |
 
 ### Clasificación por Destinatarios
 | Tipo | Descripción |
 |------|-------------|
-| **Unicast** | Uno a uno |
-| **Multicast** | Uno a varios |
-| **Broadcast** | Uno a todos |
+| **Unicast** (unidifusión) | Un usuario → otro usuario |
+| **Multicast** (multidifusión) | Un usuario → varios usuarios |
+| **Broadcast** (difusión) | Un usuario → todos los usuarios |
 
 ### Clasificación por Dimensión
 | Tipo | Alcance | Estándar |

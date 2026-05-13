@@ -25,23 +25,16 @@ Su objetivo es formular objetivos profesionales realistas y adecuados a tu perso
 - **A**frontar las amenazas
 - **M**antener las fortalezas
 - **E**xplotar las oportunidades
-[[U10-DAFO]]
-[[U10-CAME]]
 
 **6. Entorno personal de aprendizaje (PLE)** Un PLE (_Personal Learning Environment_) es el conjunto de herramientas, recursos y conexiones que utiliza una persona para apoyar su proceso de aprendizaje de forma personalizada. A diferencia de los entornos tradicionales, se centra en la autonomía del estudiante y le permite seleccionar los recursos que mejor se adaptan a sus necesidades y estilo de aprendizaje.
-[[U11-Entorno-Personal-Aprendizaje]]
-[[U11-Configuracion-PLE]]
 
 **7. Qué es la competencia digital** La competencia digital implica el uso seguro, saludable, sostenible, crítico y responsable de las tecnologías digitales para el aprendizaje, el trabajo y la participación en la sociedad, así como la interacción con estas.
-[[U11-Competencia-Digital]]
 
 **8. Life Long Learning (Aprendizaje a lo largo de la vida)** El aprendizaje a lo largo de la vida debe ser un proceso continuo del que debemos responsabilizarnos de manera autónoma, fuera de los programas oficiales, adaptando nuestras habilidades, conocimientos y destrezas a las necesidades de un entorno laboral cambiante y exigente. Los rápidos cambios tecnológicos y la globalización obligan a los trabajadores a reciclarse varias veces a lo largo de su vida profesional.
 
 **9. Ejemplo de aprendizaje autónomo** Carlos, operador de robots industriales, aprende de forma autónoma mediante tutoriales, blogs, plataformas online y herramientas de inteligencia artificial para mantenerse al día de los cambios tecnológicos de su sector y mejorar su empleabilidad fuera del sistema de formación reglado.
-[[U11-Aprendizaje-Autonomo]]
 
 **10. NO es una vía de adquisición de competencia digital** Las vías de adquisición de competencia digital son: enseñanza formal, cursos y talleres, aprendizaje autónomo (PLE), certificaciones, práctica activa, participación en redes sociales y comunidades, y desarrollo de habilidades de seguridad digital. Por tanto, **NO es una vía** cualquier opción que implique un aprendizaje pasivo sin interacción ni práctica, como simplemente ver televisión o consumir contenido sin ningún propósito formativo.
-[[U11-Adquisicion-Competencias-Digitales]]
 
 # **DESARROLLO (11–15)**
 
