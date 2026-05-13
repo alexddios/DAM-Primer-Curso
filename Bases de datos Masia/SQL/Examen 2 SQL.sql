@@ -21,7 +21,7 @@ SELECT User_Code, SUM(Dues) AS Total_Payment
 FROM PAYMENTS
 GROUP BY User_Code
 ORDER BY Total_Payment DESC
-LIMIT 1; -- (Nota: En Oracle se usaría "FETCH FIRST 1 ROWS ONLY" en lugar de LIMIT)
+FETCH FIRST 1 ROWS ONLY; -- (Nota: En Oracle se usaría "FETCH FIRST 1 ROWS ONLY" en lugar de LIMIT)
 
 -- 4. Display the MEMBERSHIP_NUMBER and the total payments made for users from MANACOR who has not leaved any activity they were enrolled[cite: 34].
 SELECT U.Membership_Number, SUM(P.Dues) AS Total_Payments
