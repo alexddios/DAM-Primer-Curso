@@ -6,9 +6,9 @@ public class ClasseSurf extends Activitat{
     private Monitor monitor;
 
     public ClasseSurf(
-            String dni,String nom,int duradaMinuts,
+            String codi,String nom,int duradaMinuts,
             String hora,double preuBase,NivellSurf nivell,Platja platja,Monitor monitor){
-        super(dni,nom,duradaMinuts);
+        super(codi,nom,duradaMinuts);
         this.hora = hora;
         this.preuBase = preuBase;
         this.nivell=nivell;
