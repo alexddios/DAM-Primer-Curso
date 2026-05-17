@@ -13,6 +13,7 @@ public class Inscripcio implements Inscrivible{
         this.alumnes= new ArrayList<>();
         this.classeSurf= classeSurf;
     }
+    @Override
     public void afegirAlumne(Alumne a){
         alumnes.add(a);
     }
