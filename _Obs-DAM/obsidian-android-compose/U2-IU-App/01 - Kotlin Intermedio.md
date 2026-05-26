@@ -1,6 +1,6 @@
 # Ruta 1 — Kotlin Intermedio
 
-**← [[U2-IU-App]]** | **→ [[02 - Botones e Interactividad|Ruta 2]]**
+**← [[00 - Unidad 2 Resumen|Unidad 2]]** | **→ [[02 - Botones e Interactividad|Ruta 2]]**
 
 ---
 

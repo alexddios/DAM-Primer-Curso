@@ -1,6 +1,6 @@
 # Ruta 1 — Introducción a Kotlin
 
-**← [[U1-Primera-App]]** | **→ [[02 - Configurar Android Studio|Ruta 2]]**
+**← [[00 - Unidad 1 Resumen|Unidad 1]]** | **→ [[02 - Configurar Android Studio|Ruta 2]]**
 
 ---
 

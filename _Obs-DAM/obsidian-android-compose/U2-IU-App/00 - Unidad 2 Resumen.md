@@ -1,6 +1,6 @@
 # Unidad 2 — Compila la IU de una app
 
-**← [[U1-Primera-App]]** | **→ [[../U3-Listas-Material/00 - Unidad 3 Resumen|Unidad 3]]**
+**← [[../U1-Primera-App/00 - Unidad 1 Resumen|Unidad 1]]** | **→ [[../U3-Listas-Material/00 - Unidad 3 Resumen|Unidad 3]]**
 
 Duración: ~21 horas | 3 rutas de aprendizaje
 
