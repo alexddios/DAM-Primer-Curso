@@ -1,6 +1,6 @@
 # Ruta 1 — Programar tareas con WorkManager
 
-**← [[00 - Unidad 7 Resumen|Unidad 7]]** | **→ [[../U8-Views-Compose/00 - Unidad 8 Resumen|Unidad 8]]**
+**← [[U7-WorkManager|Unidad 7]]** | **→ [[U8-Views-Compose|Unidad 8]]**
 
 ---
 

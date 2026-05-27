@@ -1,6 +1,6 @@
 # Unidad 5 — Conectarse a Internet
 
-**← [[../U4-Navegacion-Arquitectura/00 - Unidad 4 Resumen|Unidad 4]]** | **→ [[../U6-Persistencia/00 - Unidad 6 Resumen|Unidad 6]]**
+**← [[U4-Navegacion-Arquitectura]]** | **→ [[U6-Persistencia]]**
 
 Duración: ~9 horas | 2 rutas de aprendizaje
 

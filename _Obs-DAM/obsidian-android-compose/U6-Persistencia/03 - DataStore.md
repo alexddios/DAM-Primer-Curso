@@ -1,6 +1,6 @@
 # Ruta 3 — Preferences DataStore
 
-**← [[02 - Room|Ruta 2]]** | **→ [[../U7-WorkManager/00 - Unidad 7 Resumen|Unidad 7]]**
+**← [[02 - Room|Ruta 2]]** | **→ [[U7-WorkManager|Unidad 7]]**
 
 ---
 

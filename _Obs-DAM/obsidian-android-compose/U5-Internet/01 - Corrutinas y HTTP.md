@@ -1,6 +1,6 @@
 # Ruta 1 — Corrutinas de Kotlin y peticiones HTTP
 
-**← [[00 - Unidad 5 Resumen|Unidad 5]]** | **→ [[02 - Repositorio e Imagenes|Ruta 2]]**
+**← [[U5-Internet|Unidad 5]]** | **→ [[02 - Repositorio e Imagenes|Ruta 2]]**
 
 ---
 

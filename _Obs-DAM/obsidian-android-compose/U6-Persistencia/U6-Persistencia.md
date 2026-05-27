@@ -1,6 +1,6 @@
 # Unidad 6 — Persistencia de datos
 
-**← [[../U5-Internet/00 - Unidad 5 Resumen|Unidad 5]]** | **→ [[../U7-WorkManager/00 - Unidad 7 Resumen|Unidad 7]]**
+**← [[U5-Internet]]** | **→ [[U7-WorkManager]]**
 
 Duración: ~10 horas | 3 rutas de aprendizaje
 

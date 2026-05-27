@@ -1,6 +1,6 @@
 # Unidad 7 — WorkManager
 
-**← [[../U6-Persistencia/00 - Unidad 6 Resumen|Unidad 6]]** | **→ [[../U8-Views-Compose/00 - Unidad 8 Resumen|Unidad 8]]**
+**← [[U6-Persistencia]]** | **→ [[U8-Views-Compose]]**
 
 Duración: ~3 horas | 1 ruta de aprendizaje
 

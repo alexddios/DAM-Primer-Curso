@@ -1,6 +1,6 @@
 # Ruta 1 — Introducción a SQL
 
-**← [[00 - Unidad 6 Resumen|Unidad 6]]** | **→ [[02 - Room|Ruta 2]]**
+**← [[U6-Persistencia|Unidad 6]]** | **→ [[02 - Room|Ruta 2]]**
 
 ---
 

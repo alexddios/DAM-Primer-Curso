@@ -1,6 +1,6 @@
 # Ruta 1 — Kotlin: Colecciones y funciones de orden superior
 
-**← [[00 - Unidad 3 Resumen|Unidad 3]]** | **→ [[02 - Listas Desplazables|Ruta 2]]**
+**← [[U3-Listas-Material|Unidad 3]]** | **→ [[02 - Listas Desplazables|Ruta 2]]**
 
 ---
 

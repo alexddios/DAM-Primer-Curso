@@ -1,6 +1,6 @@
 # Unidad 1 — Tu primera app para Android
 
-**← [[../000 - Índice del Curso|Índice]]** | **→ [[../U2-IU-App/00 - Unidad 2 Resumen|Unidad 2]]**
+**← [[obsidian-android-compose]]** | **→ [[U2-IU-App]]**
 
 Duración: ~10 horas | 3 rutas de aprendizaje
 

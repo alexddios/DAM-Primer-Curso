@@ -1,6 +1,6 @@
 # Ruta 1 — El sistema de Views de Android
 
-**← [[00 - Unidad 8 Resumen|Unidad 8]]** | **→ [[02 - Interoperabilidad Views y Compose|Ruta 2]]**
+**← [[U8-Views-Compose|Unidad 8]]** | **→ [[02 - Interoperabilidad Views y Compose|Ruta 2]]**
 
 ---
 

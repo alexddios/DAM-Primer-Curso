@@ -1,6 +1,6 @@
 # Ruta 2 — Repositorio, inyección de dependencias e imágenes desde URL
 
-**← [[01 - Corrutinas y HTTP|Ruta 1]]** | **→ [[../U6-Persistencia/00 - Unidad 6 Resumen|Unidad 6]]**
+**← [[01 - Corrutinas y HTTP|Ruta 1]]** | **→ [[U6-Persistencia|Unidad 6]]**
 
 ---
 

@@ -1,6 +1,6 @@
 # Unidad 3 — Listas y Material Design
 
-**← [[../U2-IU-App/00 - Unidad 2 Resumen|Unidad 2]]** | **→ [[../U4-Navegacion-Arquitectura/00 - Unidad 4 Resumen|Unidad 4]]**
+**← [[U2-IU-App]]** | **→ [[U4-Navegacion-Arquitectura]]**
 
 Duración: ~15 horas | 3 rutas de aprendizaje
 

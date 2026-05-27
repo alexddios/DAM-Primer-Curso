@@ -1,6 +1,6 @@
 # Ruta 3 — Diseños adaptables para múltiples pantallas
 
-**← [[02 - Navigation Compose|Ruta 2]]** | **→ [[../U5-Internet/00 - Unidad 5 Resumen|Unidad 5]]**
+**← [[02 - Navigation Compose|Ruta 2]]** | **→ [[U5-Internet|Unidad 5]]**
 
 ---
 

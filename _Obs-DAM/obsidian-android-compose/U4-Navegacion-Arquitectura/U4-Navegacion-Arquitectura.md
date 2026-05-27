@@ -1,6 +1,6 @@
 # Unidad 4 — Navegación y Arquitectura de la App
 
-**← [[../U3-Listas-Material/00 - Unidad 3 Resumen|Unidad 3]]** | **→ [[../U5-Internet/00 - Unidad 5 Resumen|Unidad 5]]**
+**← [[U3-Listas-Material]]** | **→ [[U5-Internet]]**
 
 Duración: ~28 horas | 3 rutas de aprendizaje
 

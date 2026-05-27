@@ -1,6 +1,6 @@
 # Ruta 3 — Primer diseño con Compose
 
-**← [[02 - Configurar Android Studio|Ruta 2]]** | **→ [[../U2-IU-App/00 - Unidad 2 Resumen|Unidad 2]]**
+**← [[02 - Configurar Android Studio|Ruta 2]]** | **→ [[U2-IU-App|Unidad 2]]**
 
 ---
 

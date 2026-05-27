@@ -1,6 +1,6 @@
 # Ruta 1 — ViewModel, ciclo de vida y arquitectura
 
-**← [[00 - Unidad 4 Resumen|Unidad 4]]** | **→ [[02 - Navigation Compose|Ruta 2]]**
+**← [[U4-Navegacion-Arquitectura|Unidad 4]]** | **→ [[02 - Navigation Compose|Ruta 2]]**
 
 ---
 

@@ -1,6 +1,6 @@
 # Unidad 8 — Views y Compose
 
-**← [[../U7-WorkManager/00 - Unidad 7 Resumen|Unidad 7]]** | **[[../000 - Índice del Curso|Volver al índice]]**
+**← [[U7-WorkManager]]** | **[[obsidian-android-compose|Volver al índice]]**
 
 Duración: ~4 horas | 2 rutas de aprendizaje
 

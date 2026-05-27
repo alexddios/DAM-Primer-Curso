@@ -1,6 +1,6 @@
 # Ruta 3 — Estado en Compose
 
-**← [[02 - Botones e Interactividad|Ruta 2]]** | **→ [[../U3-Listas-Material/00 - Unidad 3 Resumen|Unidad 3]]**
+**← [[02 - Botones e Interactividad|Ruta 2]]** | **→ [[U3-Listas-Material|Unidad 3]]**
 
 ---
 

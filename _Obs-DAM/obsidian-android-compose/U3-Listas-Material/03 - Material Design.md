@@ -1,6 +1,6 @@
 # Ruta 3 — Material Design con Compose
 
-**← [[02 - Listas Desplazables|Ruta 2]]** | **→ [[../U4-Navegacion-Arquitectura/00 - Unidad 4 Resumen|Unidad 4]]**
+**← [[02 - Listas Desplazables|Ruta 2]]** | **→ [[U4-Navegacion-Arquitectura|Unidad 4]]**
 
 ---
 
@@ -153,7 +153,7 @@ Material 3 define una escala con 15 estilos de texto organizados en 5 familias:
 
 ### Usar fuentes personalizadas
 
-1. Descarga los archivos de fuente (`.ttf` o `.otf`) de fonts.google.com
+1. Descarga los archivos de fuente (`.ttf` o `.otf`) de https://fonts.google.com
 2. Crea la carpeta `res/font/` y copia los archivos allí
 3. Define la `FontFamily` en `Type.kt`:
 
@@ -353,4 +353,4 @@ fun WoofPreview() {
 
 ---
 
-**→ Continúa con [[../U4-Navegacion-Arquitectura/00 - Unidad 4 Resumen|Unidad 4 — Navegación y Arquitectura]]**
+**→ Continúa con [[U4-Navegacion-Arquitectura|Unidad 4 — Navegación y Arquitectura]]**
